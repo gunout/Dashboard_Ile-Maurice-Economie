@@ -1,5 +1,7 @@
 # Dashboard_Ile-Maurice-Economie
+
 🏝️ Dashboard Économique Île Maurice
+
 <img width="662" height="465" alt="Screenshot_2025-10-05_00-44-14" src="https://github.com/user-attachments/assets/d56ca6fb-45f1-450b-a00f-6b06fbe7bb0a" />
 
 # EXAMPLE
